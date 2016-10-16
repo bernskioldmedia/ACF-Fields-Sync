@@ -97,7 +97,7 @@ class ACF_Fields_Sync {
 
 			// Hook into the filters.
 			add_filter( 'acf/settings/save_json', array( $this, 'acf_json_save' ) );
-			add_filter( 'acf/settings/load_json', array( $this, 'bm_acf_json_load' ) );
+			add_filter( 'acf/settings/load_json', array( $this, 'acf_json_load' ) );
 
 		}
 
