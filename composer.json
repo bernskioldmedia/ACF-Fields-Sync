@@ -1,0 +1,12 @@
+{
+    "name": "bernskioldmedia/bm-acf-fields-sync",
+    "description": "WordPress plugin that stores local JSON files for ACF into this plugin, rather than in the active theme.",
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name": "Erik Bernskiold",
+            "email": "erik@bernskioldmedia.com"
+        }
+    ],
+    "require": {}
+}
