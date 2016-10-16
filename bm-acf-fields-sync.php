@@ -3,7 +3,7 @@
  * Plugin Name: ACF Fields Sync
  * Plugin URI:  https://www.bernskioldmedia.com/en/products/acf-fields-sync/
  * Description: Stores the local JSON files for ACF inside this plugin directory instead of as default with ACF in an active theme.
- * Version:     1.0.0
+ * Version:     1.0.1
  * Author:      Bernskiold Media
  * Author URI:  https://www.bernskioldmedia.com
  * Text Domain: bm-acf-fields-sync
@@ -73,7 +73,7 @@ class ACF_Fields_Sync {
 	public function __construct() {
 
 		// Set Plugin Version.
-		$this->plugin_version = '1.0.0';
+		$this->plugin_version = '1.0.1';
 
 		// Set plugin Directory.
 		$this->plugin_dir = untrailingslashit( plugin_dir_path( __FILE__ ) );
