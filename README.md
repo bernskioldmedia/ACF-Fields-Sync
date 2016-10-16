@@ -46,3 +46,12 @@ things like this that we use and need ourselves.
 
 You can read more about us at our website: https://www.bernskioldmedia.com
 If you want to get in touch, please do send an email at: info@bernskioldmedia.com
+
+## Changelog
+
+**Version 1.0.1**
+- Fixed a bug where a function call was incorrectly called.
+- Added Composer support
+
+**Version 1.0**
+First plugin version.
