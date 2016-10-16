@@ -11,7 +11,7 @@
  * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
  */
 
-namespace ACF_Fields_Sync;
+namespace BernskioldMedia\Plugins\ACF_Fields_Sync;
 
 // Exit if accessed directly.
 if ( ! defined( 'ABSPATH' ) ) {
@@ -23,7 +23,7 @@ if ( ! defined( 'ABSPATH' ) ) {
  *
  * Main plugin class used for everything in this little plugin.
  *
- * @package ACF_Fields_Sync
+ * @package BernskioldMedia\Plugins\ACF_Fields_Sync
  */
 class ACF_Fields_Sync {
 
